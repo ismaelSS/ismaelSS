@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Full-stack.
 - 🌱 I’m currently learning Next.js.
-- 💬 Ask me about ...
 - 📫 How to reach me: e-mail: ismael1337sn@gmail.com || Whatsapp: +5583996377512.
 - 😄 Pronouns: ele/dele he/him.
 
