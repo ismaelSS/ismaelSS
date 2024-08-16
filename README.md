@@ -1,9 +1,9 @@
-### Hi I'm a FullStack developer, my name is Ismael Silva, welcome to my GitHub 😁.
+Olá! bem vindo ao meu GitHub 😁.
 
-- 🔭 I’m currently working on Full-stack.
-- 🌱 I’m currently learning Next.js.
-- 📫 How to reach me: e-mail: ismael1337sn@gmail.com || Whatsapp: +5583996377512.
-- 😄 Pronouns: ele/dele he/him.
+- 🔭 Sou desenvolvedor front-end.
+- 🌐 meu portifolio online: <a>vaavante.com.br</a>
+- 📫 como entrar em contato comigo: e-mail: ismael1337sn@gmail.com || Whatsapp: +5583996377512.
+- 😄 pronomes: ele/dele he/him.
 
 
 <!-- ![ismaelSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelSS&show_icons=true&theme=radical)
