@@ -1,9 +1,7 @@
 Olá! bem vindo ao meu GitHub 😁.
 
 - 🔭 Sou desenvolvedor front-end.
-  ~~~html
-- 🌐 meu portifolio online: <a>vaavante.com.br</a>
-~~~
+- 🌐 meu portifolio online: [va avante](vaavante.com.br)
 - 📫 como entrar em contato comigo: e-mail: ismael1337sn@gmail.com || Whatsapp: +5583996377512.
 - 😄 pronomes: ele/dele he/him.
 
